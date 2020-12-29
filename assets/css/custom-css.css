@@ -1,0 +1,27 @@
+.holder-input {
+    border-radius: 8px;
+    box-shadow: 0 7px 10px rgba(77,88,114,.1);
+}
+
+.btn-holder {
+    position: absolute;
+    width: 100%;
+    bottom: 20px;
+    right: 0;
+    padding: 15px;
+}
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: "";
+}
+
+.select2 {
+    width:100%!important;
+}
+
+.select2-selection { overflow: hidden; }
+.select2-selection__rendered { white-space: normal; word-break: break-all; }
